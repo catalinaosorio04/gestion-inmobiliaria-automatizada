@@ -14,6 +14,7 @@ Cierres.xlsx → contratos cerrados (inmuebles arrendados).
 
 SubZonas.xlsx → asignación de barrio → captador.
 
+---
 
 Datos de salida (carpeta output/)
 
