@@ -40,20 +40,20 @@ Cartelera_Actualizada.xlsx → cartelera depurada, quitando los inmuebles que ya
 
 1. Instalar dependencias:
    ```bash
-Instalar dependencias
-pip install -r requirements.txt
-
-Asignar captadores
-python main.py --asignar
-
-Generar correos de prueba
-python main.py --emails
-
-Generar reporte de comisiones
-python main.py --comisiones
-
-Ejecutar todos los archivos 
-python main.py --asignar --emails --comisiones --actualizar
+   Instalar dependencias
+   pip install -r requirements.txt
+   
+   Asignar captadores
+   python main.py --asignar
+   
+   Generar correos de prueba
+   python main.py --emails
+   
+   Generar reporte de comisiones
+   python main.py --comisiones
+   
+   Ejecutar todos los archivos 
+   python main.py --asignar --emails --comisiones --actualizar
 
 ---
 
