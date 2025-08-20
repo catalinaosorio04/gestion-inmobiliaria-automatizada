@@ -1,4 +1,4 @@
-# 💻 Automatización Python
+# 💻 Automatización de Gestión Inmobiliaria - AA
 
 Este proyecto automatiza el proceso de gestión inmobiliaria, eliminando tareas manuales repetitivas como la asignación de captadores, el envío de correos, el cálculo de comisiones y la actualización de la cartelera de inmuebles.
 
